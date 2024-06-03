@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F2E3D5;
+}
+
+.caja1 {
+    background-color: #abddfa;
+    height: 150px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.caja2 {
+    background-color: #83a4ff;
+    height: 150px;
+    border: 1px solid rgb(255, 255, 255);
+}
